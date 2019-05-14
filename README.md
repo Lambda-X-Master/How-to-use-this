@@ -4,7 +4,7 @@
 
 In the upper right corner, click the + button and choose `New organization`
 
-<div align="center"><img src="./images/step.png" ></div>
+<div align="center"><img src="./images/step1.png" ></div>
 <br>
 <br>
 
