@@ -8,6 +8,9 @@ In the upper right corner, click the + button and choose `New organization`
 <img src="./images/step1.png"/>
 </center>
 
+<br>
+<br>
+
 ## Step Two
 
 Provide the name of your team's project. Keep in mind the naming convention used: `labs(cohort)-project-name`
