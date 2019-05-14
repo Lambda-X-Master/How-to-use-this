@@ -22,7 +22,7 @@ Then click create organization
 
 ## Step Three - Skip inviting members for now
 
-Skip inviting members to the organization until the repos are setup.
+Click continue, we'll invite members to the team later.
 
 <div align="center"><img src="./images/step3.png"></div>
 
@@ -46,11 +46,11 @@ Navigate to the [Labs-Master organization](https://github.com/labs-master) and c
 
 <div align="center"><img src="./images/step6.png"></div>
 
-Open the readme file and open the raw version
+Access the readme file open the raw version
 
 <div align="center"><img src="./images/step6-1.png"></div>
 
-Select all then copy and paste the text into the readme of the organization using the edit option.
+Select all then copy and paste the text into the readme of the newly created repository using the edit option.
 
 <div align="center"><img src="./images/step6-2.png"></div>
 
@@ -86,7 +86,7 @@ If they are a PM or higher, give them the role of `Owner.` Students get the role
 
 <div align="center"><img src="./images/step8-1.png"></div>
 
-## Step Nine - Give Members Write Access
+## Step Nine - Give members write access
 
 In every repository in the organization go to settings -> member privileges and change the base permission from read to write.
 
