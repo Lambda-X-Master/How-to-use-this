@@ -52,7 +52,7 @@
 <div align="center"><img src="./images/step6-1.png"></div>
 <br>
 
-### Select all then copy and paste the text into the readme of the newly created repository using the edit option.
+### `Select all then copy and paste the text into the readme of the newly created repository using the edit option.`
 
 <br>
 
