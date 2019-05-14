@@ -32,7 +32,7 @@
 
 ## Step Five - Create a new repository
 
-### Click Create a New Repository. Repeat this step for frontend, backend, and if applicable add Andriod, iOS, and data science.
+### Click Create a New Repository. Make sure to give it a name, make sure it's public, initialize with a readme, and add an MIT license. Repeat this step for frontend, backend, and if applicable add Android, iOS, and data science.
 
 <div align="center"><img src="./images/step5.png"></div>
 
