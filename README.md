@@ -2,7 +2,7 @@
 
 ## Step One - Create a new GitHub Organization
 
-In the upper right corner, click the + button and choose `New organization`
+### In the upper right corner, click the + button and choose `New organization`
 
 <div align="center"><img src="./images/step1.png" ></div>
 <br>
