@@ -92,6 +92,7 @@
 ## Step Eight - Invite members to the team
 
 📌 **One organization page click the people tab then `invite member.`**
+
 📌 **Make sure to add all section leads and as owners**
 
 <div align="center"><img src="./images/step8.png"></div>
