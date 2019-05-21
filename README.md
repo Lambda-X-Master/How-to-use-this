@@ -11,8 +11,12 @@
 📌 **Provide the name of your team's project. Keep in mind the naming convention used: `labs(cohort)-project-name.` You need to add a billing email, but will not be billed for an open source team.**
 
 <div align="center"><img src="./images/step2.png" ></div>
+</br>
+</br>
 
 📌 **Then click create organization**
+</br>
+</br>
 
 <div align="center"><img src="./images/step2_1.png" ></div>
 
