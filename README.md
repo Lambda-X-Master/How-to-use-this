@@ -62,6 +62,7 @@
 
 <div align="center"><img src="./images/step6-2.png"></div>
 <br>
+
 📌 **Copy all other files including images (if applicable) into the new repo**
 
 📌 **Commit the changes**
