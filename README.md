@@ -42,7 +42,7 @@
 
 <div align="center"><img src="./images/step5-1.png"></div>
 
-## Step Six - Copy *ALL* master markdown files to the new repo.
+## Step Six - Copy _ALL_ master markdown files to the new repo.
 
 📌 **Navigate to the [Laambda X Master Organization](https://github.com/Lambda-X-Master) and choose the repository you wish to duplicate.**
 
@@ -83,11 +83,11 @@
 
 <div align="center"><img src="./images/step7-1.png"></div>
 
-📌 **Check the following boxes and set the required approving reviews to two.**
+📌 **Check the following box requiring one review before merging to master.**
 
 <div align="center"><img src="./images/step7-2.png"></div>
 
-📌 **Make sure to do this for every repository in the organization.
+📌 \*\*Make sure to do this for every repository in the organization.
 
 ## Step Eight - Invite members to the team
 
