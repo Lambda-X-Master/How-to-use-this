@@ -44,7 +44,7 @@
 
 ## Step Six - Copy _ALL_ master markdown files to the new repo.
 
-📌 **Navigate to the [Laambda X Master Organization](https://github.com/Lambda-X-Master) and choose the repository you wish to duplicate.**
+📌 **Navigate to the [Lambda X Master Organization](https://github.com/Lambda-X-Master) and choose the repository you wish to duplicate.**
 
 <div align="center"><img src="./images/step6.png"></div>
 <br>
