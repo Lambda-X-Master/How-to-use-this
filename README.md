@@ -93,11 +93,11 @@
 
 📌 **One organization page click the people tab then `invite member` then invite them by their GitHub handle or email address.**
 
-📌 **Make sure to add all section leads and as owners.**
+📌 **Make sure to add all section leads, Team Leads and members as owners.**
 
 <div align="center"><img src="./images/step8.png"></div>
 
-📌 **If they are a PM or higher, give them the role of `Owner.` Students get the role of `Member.`**
+📌 **All section leads, team leads and members should have a `Owner` access**
 
 <div align="center"><img src="./images/step8-1.png"></div>
 
