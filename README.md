@@ -106,3 +106,24 @@
 📌 **In every repository in the organization go to settings -> member privileges and change the base permission from read to write.**
 
 <div align="center"><img src="./images/step9.png"></div>
+
+## Step Ten - Add pull request template to project.
+
+📌 **In every repository in the organization, create a file in the root directory named `pull_request_template.md` and paste the following:**
+
+```
+# Description
+
+Describe change or new feature here.
+
+## Checklist
+
+Remove any items which are not applicable.
+
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] I have added tests that prove my fix is effective or that my feature works AND the tests pass
+
+```
+
