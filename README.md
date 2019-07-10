@@ -42,7 +42,7 @@
 
 <div align="center"><img src="./images/step5-1.png"></div>
 
-## Step Six - Copy _ALL_ master markdown files to the new repo.
+## Step Six - Copy _ALL_ relevant master markdown files to the new repo (IE: Frontend files for Frontend, Backend for backend, Android for Android).
 
 📌 **Navigate to the [Lambda X Master Organization](https://github.com/Lambda-X-Master) and choose the repository you wish to duplicate.**
 
